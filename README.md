@@ -72,8 +72,8 @@ Tamil-first **RAG-based knowledge discovery app**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RajeshwariVelmurugan&show_icons=true&theme=default"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshwariVelmurugan&layout=compact"/>
 </p>
 
 ---
