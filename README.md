@@ -16,8 +16,7 @@
 - 🎓 Final-year  student at **Ramco Institute of Technology** (Artificial Intelligence and data Science)
 - 🌱 I'm currently learning **AI AGENTS ,MCP**
 - 🤖 Building **GenAI and AIML projects**: RAG, LLM applications , evaluation pipelines, AI Agents
-- 🌱 Currently learning: *(e.g. LangChain, vector databases, LLM evaluation, system design)*
-- 🌐 Interested in **Tamil-language AI**: making knowledge accessible in regional languages
+- 🌐 Passionate about debugging, problem-solving, and building solutions for real-world problems
 - 💬 Ask me about: RAG, NLP, LLM, AI, ML, DL
 - ⚡ Fun fact: *I talk to my code more than I talk to people 🐛*
 
