@@ -13,34 +13,14 @@
 
 ## 🧑‍💻 About me
 
-- 🎓 Final-year / pre-final-year student at **Ramco Institute of Technology** (AIDS Final Year)
-- 🤖 Building **production-quality GenAI projects**: RAG, LLM apps, evaluation pipelines
+- 🎓 Final-year  student at **Ramco Institute of Technology** (Artificial Intelligence and data Science)
+- 🌱 I'm currently learning **AI AGENTS ,MCP**
+- 🤖 Building **GenAI and AIML projects**: RAG, LLM applications , evaluation pipelines, AI Agents
 - 🌱 Currently learning: *(e.g. LangChain, vector databases, LLM evaluation, system design)*
 - 🌐 Interested in **Tamil-language AI**: making knowledge accessible in regional languages
-- 💬 Ask me about: RAG, NLP, Flask/Python backends
-- 🎯 Looking for: **GenAI Engineer / AI-ML Engineer / Software Developer** roles (internships or full-time)
+- 💬 Ask me about: RAG, NLP, LLM, AI, ML, DL
+- ⚡ Fun fact: *I talk to my code more than I talk to people 🐛*
 
----
-
-## 🚀 Featured Projects
-
-### 📚 CICT Tamil Knowledge Navigator
-Tamil-first **RAG-based knowledge discovery app**.
-- **What it does:** *(1–2 lines: what question does it answer, for whom)*
-- **Tech:** Python, Flask, Vanilla JS, *(embedding model, vector DB, LLM you used)*
-- **Highlights:** *(e.g. Tamil retrieval quality, response time, number of documents indexed)*
-- 🔗 [Code](https://github.com/YOUR-USERNAME/REPO) | [Live Demo](https://YOUR-DEMO)
-
-### 📝 SAGE: Short Answer Grading Engine
-**AI-powered engine** that grades short-answer exam responses.
-- **What it does:** *(how it scores answers, what rubric or reference it uses)*
-- **Tech:** *(Python, NLP/LLM, embeddings, etc.)*
-- **Highlights:** *(e.g. agreement with human graders, accuracy %, how you evaluated)*
-- 🔗 [Code](https://github.com/YOUR-USERNAME/REPO) | [Demo](https://YOUR-DEMO)
-
-> 💡 Tip: numbers (accuracy, latency, users, documents) make recruiters stop and read. Add real ones only.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -79,12 +59,11 @@ Tamil-first **RAG-based knowledge discovery app**.
 ---
 
 ## 🏆 Achievements & Learning
+- 🥇 **Google Solution Challenge 2026:** Built an AI and blockchain-based digital asset protection system using DCT steganographic watermarking, Polygon smart contracts, and Elasticsearch KNN visual search to protect IP assets across 50+ web platforms.
+- 🎓 **Microsoft AI Skills Fest (2026):** Completed foundational AI certification covering practical AI use cases and problem-solving.
+- 📘 **NPTEL (2025):** Big Data Computing, Silver Badge
+- 📜 **Udemy (2025):** Certified in Artificial Intelligence and Data Science
+- 💻 **LeetCode:** Solved 100+ Java Data Structures and Algorithms problems (2026)
+- 🥇 **HackerRank:** SQL Gold Badge (2026)
+- 🤝 **Student Coordinator:** Core organizer of the UI/UX event at **Nexgen AI**, a college-wide symposium (April 10, 2026); Coordinator for the **Analytical Society of India** (departmental club)
 
-- *(Hackathons, certifications, college events, papers, open-source PRs)*
-- *(e.g. "Completed XYZ course on NLP")*
-
----
-
-## 📫 Let's connect
-
-Open to internships, collaborations, and feedback on my projects. Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-ID) or at **YOUR-EMAIL**.
