@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RajeshwariVelmurugan&show_icons=true&theme=default&commits_year=2026"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RajeshwariVelmurugan&show_icons=true&theme=default&include_all_commits=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshwariVelmurugan&layout=compact"/>
 </p>
 
