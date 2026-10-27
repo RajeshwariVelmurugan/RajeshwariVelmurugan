@@ -1,21 +1,19 @@
 <h1 align="center">Hi, I'm Rajeshwari 👋</h1>
 <p align="center">
   AI/ML • GenAI • Software Development<br/>
-  Student at Ramco Institute of Technology | Open to internships & entry-level roles
+  Student at Ramco Institute of Technology | Open to Work
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=blue"/>
-</p>
+  <a href="mailto:rajeshwarimurugan2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 
 ---
 
 ## 🧑‍💻 About me
 
-- 🎓 Final-year / pre-final-year student at **Ramco Institute of Technology** (update your department & year)
+- 🎓 Final-year / pre-final-year student at **Ramco Institute of Technology** (AIDS Final Year)
 - 🤖 Building **production-quality GenAI projects**: RAG, LLM apps, evaluation pipelines
 - 🌱 Currently learning: *(e.g. LangChain, vector databases, LLM evaluation, system design)*
 - 🌐 Interested in **Tamil-language AI**: making knowledge accessible in regional languages
