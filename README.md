@@ -1,5 +1,4 @@
-<!-- Tokyo Night palette: bg #1a1b27 | blue #7aa2f7 | purple #bb9af7 | cyan #7dcfff | text #c0caf5 --> <h1 align="center">Hi, I'm Rajeshwari 👋</h1> <p align="center"> AI/ML • GenAI • Software Development<br/> Student at Ramco Institute of Technology | Open to Work </p> <p align="center"> <a href="https://www.linkedin.com/in/rajeshwari-v-a29776289"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a> <a href="mailto:rajeshwarimurugan2006@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=bb9af7"/></a> <img src="https://komarev.com/ghpvc/?username=RajeshwariVelmurugan&style=for-the-badge&color=7aa2f7&labelColor=1a1b27"/> </p>
-
+<!-- Tokyo Night palette: bg #1a1b27 | blue #7aa2f7 | purple #bb9af7 | cyan #7dcfff | text #c0caf5 --> <h1 align="center">Hi, I'm Rajeshwari 👋</h1> <p align="center"> AI/ML • GenAI • Software Development<br/> Student at Ramco Institute of Technology | Open to Work </p> <p align="center"> <a href="https://www.linkedin.com/in/rajeshwari-v-a29776289"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a> <a href="mailto:rajeshwarimurugan2006@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=bb9af7"/></a> <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME"><img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=7dcfff"/></a> <a href=""><img src="https://img.shields.io/badge/HackerRank-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=7aa2f7"/></a> <img src="https://komarev.com/ghpvc/?username=RajeshwariVelmurugan&style=for-the-badge&color=7aa2f7&labelColor=1a1b27"/> </p>
 ## 🧑‍💻 About me
 
 - 🎓 Final-year  student at **Ramco Institute of Technology** (Artificial Intelligence and data Science)
@@ -32,9 +31,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-*(Keep only what you can talk about confidently in an interview.)*
-
 ---
 
 ## 📊 GitHub Stats
